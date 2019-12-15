@@ -1,0 +1,22 @@
+{
+  "flightNo": "LH722",
+  "start": "2018-05-14T17:15:00Z",
+  "end": "2018-05-15T02:35:00Z",
+  "airlineName": "Lufthansa",
+  "startIATA": "MUC",
+  "endIATA": "PEK",
+  "startName": "Munich",
+  "endName": "Beijing",
+  "startLat": 48.353884,
+  "startLng": 11.788164,
+  "endLat": 40.080795,
+  "endLng": 116.599384,
+  "weatherName": "beijing",
+  "aircraft": "A380",
+  "latLngBounds": [
+    40.000364,
+    116.510713,
+    39.847120,
+    116.275982
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "flightNo": "LH1792",
+  "start": "2018-06-17T14:55:00Z",
+  "end": "2018-06-17T19:00:00Z",
+  "airlineName": "RyanAir",
+  "startIATA": "MUC",
+  "endIATA": "LIS",
+  "startName": "Munich",
+  "endName": "Lisbon",
+  "startLat": 48.353884,
+  "startLng": 11.788164,
+  "endLat": 38.694961,
+  "endLng": -9.210056,
+  "weatherName": "lisbon",
+  "aircraft": "A319",
+  "latLngBounds": [
+    38.694534,
+    -9.219315,
+    38.690248,
+    -9.213187
+  ]
+}

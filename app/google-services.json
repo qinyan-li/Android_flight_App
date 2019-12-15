@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "130224799029",
+    "firebase_url": "https://appfirebaseproject-a2e22.firebaseio.com",
+    "project_id": "appfirebaseproject-a2e22",
+    "storage_bucket": "appfirebaseproject-a2e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130224799029:android:b7558789943fb2e0",
+        "android_client_info": {
+          "package_name": "com.glasses.flightapp.flightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130224799029-oad1819pv6l1mnkn1dio0dqo4jn6hnaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glasses.flightapp.flightapp",
+            "certificate_hash": "aadf499c536b682d6fc5db8f3731eeb3375fcc76"
+          }
+        },
+        {
+          "client_id": "130224799029-b8i9d5ld87bvmpk1r6gkuggid62s13op.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "130224799029-b8i9d5ld87bvmpk1r6gkuggid62s13op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHuxok88a79E4NUnD7BOyye57HDkOm0RI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130224799029-b8i9d5ld87bvmpk1r6gkuggid62s13op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

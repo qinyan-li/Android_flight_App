@@ -1,0 +1,22 @@
+{
+  "flightNo": "LH2018",
+  "start": "2018-06-17T07:30:00Z",
+  "end": "2018-06-17T18:40:00Z",
+  "airlineName": "Lufthansa",
+  "startIATA": "MUC",
+  "endIATA": "DUS",
+  "startName": "Munich",
+  "endName": "Dusseldorf",
+  "startLat": 48.353884,
+  "startLng": 11.788164,
+  "endLat": 51.288710,
+  "endLng": 6.768401,
+  "weatherName": "dusseldorf",
+  "aircraft": "CRJ9",
+  "latLngBounds": [
+    51.186582,
+    6.849275,
+    51.256853,
+    6.715039
+  ]
+}

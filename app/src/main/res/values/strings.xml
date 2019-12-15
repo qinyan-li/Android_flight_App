@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">FlightApp</string>
+    <string name="enter_search_term">Enter a Search Term</string>
+    <string name="button_send">Send</string>
+    <string name="button_search">Search</string>
+    <string name="placeholder_date">Date</string>
+    <string name="placeholder_flight_no">Flight Number</string>
+    <string name="placeholder_from">From</string>
+    <string name="placeholder_to">To</string>
+    <string name="left_tab">Flight Number</string>
+    <string name="right_tab">Flight Locations</string>
+    <string name="error_flight_no">Flight Number is required!</string>
+    <string name="error_flight_from">Flight Origin is required!</string>
+    <string name="error_flight_to">Flight Destination is required!</string>
+    <string name="title_activity_add_favorite_list">My flights</string>
+    <string name="title_activity_flight_in_menu">Flight Menu</string>
+    <string name="nav_search">Flight search</string>
+    <string name="nav_favorites">My flights</string>
+    <string name="nav_menu">Flight Menu</string>
+    <string name="nav_survey">Flight Survey</string>
+    <string name="nav_poi">My POIs</string>
+
+    <string name="no_flight">No flight</string>
+    <string name="from_to_iata">%s -> %s</string>
+    <string name="date_format">yyyy/MM/dd</string>
+    <string name="saved_to_list">Saved in your flight list</string>
+    <string name="removed_from_list">Removed from your flight list</string>
+    <string name="no_results">Your search has yielded no results.</string>
+    <string name="dialog_remove_flight">Do you really want to remove this flight from your list?</string>
+    <string name="no_active_flight_title">No active flight</string>
+    <string name="no_active_flight">There is currently no active flight in your flight list. If you are on a flight right now make sure to add it to your list first.</string>
+    <string name="dialog_title_remove_flight">Remove from list</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="title_activity_flight_detail">Flight details</string>
+    <string name="weather_in">Weather in %s</string>
+    <string name="weather_temp">%s °C</string>
+    <string name="weather_wind">%s km/h</string>
+    <string name="map_click_tip"> click position，\nLatitude：%1$f，\nLongitude：%2$f</string>
+    <string name="map_place_click_tip">Click POI：\nName：%1$s，\nPlace ID:%2$s，\nLatitude：%3$f，\nLongitude：%4$f</string>
+    <string name="title_activity_display_survey">Flight Survey</string>
+
+    <string name="google_maps_key">AIzaSyDnVs4Xqb3iQbAX2-tEpXcIQzOScjXC4T0</string>
+
+    <string-array name="airports">
+        <item>MUC</item>
+        <item>FRA</item>
+        <item>PEK</item>
+        <item>DUB</item>
+        <item>DUS</item>
+        <item>DXB</item>
+        <item>LIS</item>
+    </string-array>
+    <string name="default_notification_channel_id">flight_notification_channel</string>
+    <string name="notifications_channel_name">FlightUpdateNotifications</string>
+    <string name="notifications_channel_description">The channel for flight updates</string>
+    <string name="title_activity_poidetails">Points of Interest</string>
+    <string name="place_name">placeName</string>
+    <string name="different_location_button">Change Location</string>
+    <string name="image_description">Image for the selected Place</string>
+    <string name="no_address_found">No address was found for this place.</string>
+    <string name="no_phone_number">No phone number found for this place</string>
+    <string name="no_website">No website found for this place</string>
+    <string name="placename">PlaceName</string>
+    <string name="title_activity_safety_instruction">Safety Instruction</string>
+    <string name="title_activity_poi_list">My Pois</string>
+
+    <string name="title_activity_safety_instruction_suffix">Safety Instruction - %s</string>
+    <string name="safety_toggle_page">Switch page</string>
+    <string name="button_to_fav_list">Go to flight list</string>
+    <string name="order_food">Order Food</string>
+    <string name="watch_instructions">Watch Safety Instructions</string>
+    <string name="call_attendant">Call Flight Attendant</string>
+    <string name="saved_to_poi_list">added to your POI list</string>
+    <string name="deleted_from_poi_list">POI was removed from your list</string>
+    <string name="title_coupon">My coupons</string>
+    <string name="nav_coupon">My coupons</string>
+</resources>

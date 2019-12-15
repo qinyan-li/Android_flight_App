@@ -1,0 +1,22 @@
+{
+  "flightNo": "EW1912",
+  "start": "2018-05-27T04:45:00Z",
+  "end": "2018-05-27T06:05:00Z",
+  "airlineName": "Eurowings",
+  "startIATA": "MUC",
+  "endIATA": "DUS",
+  "startName": "Munich",
+  "endName": "Dusseldorf",
+  "startLat": 48.353884,
+  "startLng": 11.788164,
+  "endLat": 51.288710,
+  "endLng": 6.768401,
+  "weatherName": "dusseldorf",
+  "aircraft": "A319",
+  "latLngBounds": [
+    51.186582,
+    6.849275,
+    51.256853,
+    6.715039
+  ]
+}
